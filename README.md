@@ -27,7 +27,7 @@ The library is implemented in netstandard 2, so it can be used in all types of p
 # Net Core & Full Framework
 Configuration:
 
-```
+```csharp
        var rule = new WindowsFirewallRule
        {
          Name = "Microsoft SQL Server 2014 TCP Port 1433",
@@ -41,7 +41,7 @@ Configuration:
 
 Add / Delete:
 
-```
+```csharp
        rule.AddRule();               
        rule.DeleteRule();
 ```  
