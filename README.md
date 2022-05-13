@@ -12,7 +12,7 @@
 </div>
 Library to add or remove rules to windows firewall from c# code.
 
-PromatWindowsFirewallManagement está diponible por **NuGet [PromatWindowsFirewallManagement](https://www.nuget.org/packages/PromatWindowsFirewallManagement/)**
+PromatWindowsFirewallManagement is available by **NuGet [PromatWindowsFirewallManagement](https://www.nuget.org/packages/PromatWindowsFirewallManagement/)**
 
 # Generalidades
 The library is implemented in netstandard 2, so it can be used in all types of projects:
