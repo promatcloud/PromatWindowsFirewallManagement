@@ -17,7 +17,8 @@ PromatWindowsFirewallManagement está diponible por **NuGet [PromatWindowsFirewa
 # Generalidades
 The library is implemented in netstandard 2, so it can be used in all types of projects:
 
-	Both in core and full framework we have to instantiate the WindowsFirewallRule class,  on it we can define the configuration of the rule.
+	Both in core and full framework we have to instantiate the WindowsFirewallRule class,  
+	on it we can define the configuration of the rule.
 	
 	In the configuration we have to take into account that the Name, Dir and Action parameters are mandatory
 	
