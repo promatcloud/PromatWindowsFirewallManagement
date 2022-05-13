@@ -12,13 +12,15 @@
 </div>
 Library to add or remove rules to windows firewall from c# code.
 
-PromatWindowsFirewallManagement est· diponible por **NuGet [PromatWindowsFirewallManagement](https://www.nuget.org/packages/PromatWindowsFirewallManagement/)**
+PromatWindowsFirewallManagement est√° diponible por **NuGet [PromatWindowsFirewallManagement](https://www.nuget.org/packages/PromatWindowsFirewallManagement/)**
 
 # Generalidades
 The library is implemented in netstandard 2, so it can be used in all types of projects:
 
-	Both in core and full framework we have to instantiate the WindowsFirewallRule class, on it we can define the configuration of the rule.
+	Both in core and full framework we have to instantiate the WindowsFirewallRule class,  on it we can define the configuration of the rule.
+	
 	In the configuration we have to take into account that the Name, Dir and Action parameters are mandatory
+	
 	Once configured we can use its AddRule method to add the rule or DeleteRule to delete it.
 
 # Net Core & Full Framework
