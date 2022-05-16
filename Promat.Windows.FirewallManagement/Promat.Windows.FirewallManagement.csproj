@@ -9,7 +9,7 @@
 		<Description>Library to add or remove rules to windows firewall from c# code.</Description>
 		<PackageTags>windows firewall csharp netstandard</PackageTags>
 		<Copyright>Promat Asesoría técnica de servicios</Copyright>
-		<PackageIcon>promat.512.png</PackageIcon>
+		<PackageIcon>icon.png</PackageIcon>
 		<PackageProjectUrl>https://github.com/promatcloud/PromatWindowsFirewallManagement</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/promatcloud/PromatWindowsFirewallManagement</RepositoryUrl>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
@@ -22,7 +22,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<None Include="promat.512.png" Pack="true" Visible="false" PackagePath="" />
+		<None Include="icon.png" Pack="true" Visible="false" PackagePath="" />
 	</ItemGroup>
 
 </Project>
