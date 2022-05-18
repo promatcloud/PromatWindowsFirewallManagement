@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/promatcloud/Branding/master/icons/org/promat.512.png" alt="promat" width="256"/>
+<img src="https://raw.githubusercontent.com/promatcloud/Branding/master/icons/PromatWindowsFirewallManagement/firewall.512.png" alt="promat" width="256"/>
  <br/>
  PromatWindowsFirewallManagement
 </h1>
